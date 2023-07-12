@@ -25,4 +25,4 @@ I am a passionate Flutter developer with one year of experience in developing cr
 
 - Email: apirfan33@gmail.com
 - LinkedIn: [irfan](https://www.linkedin.com/in/mohammed-irfan-ap-b82aa322b/)
-- GitHub: [Your GitHub profile](https://github.com/MohammedIrfan33)
+- GitHub: [irfan](https://github.com/MohammedIrfan33)
